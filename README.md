@@ -1,2 +1,1 @@
-# HR-Attrition-Analysis-and-Visualization
-This project analyzes employee attrition using Power BI, identifying key trends and factors contributing to employee turnover. The dataset consists of various employee attributes such as age, salary, job satisfaction, and work-life balance.
+HR Attrition Analysis is a Power BI project analyzing employee attrition trends using HR analytics data. The dataset contains 1,480 employee records with features like job role, department, salary, job satisfaction, work-life balance, and tenure.
